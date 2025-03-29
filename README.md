@@ -83,8 +83,7 @@ npm install
   2. Javaer/Vue萌新/全干大佬一律欢迎
 
 
-![image text](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/1.PNG "DBSCAN Performance Comparison")
-![image text](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/2.PNG "DBSCAN Performance Comparison")
-![image text](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/3.PNG "DBSCAN Performance Comparison")
-![image text](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/4.PNG "DBSCAN Performance Comparison")
-
+![DBSCAN Performance Comparison](https://raw.githubusercontent.com/DengRuoAn/dengruoan-app/main/viewImg/1.PNG)
+![DBSCAN Performance Comparison](https://raw.githubusercontent.com/DengRuoAn/dengruoan-app/main/viewImg/2.PNG)
+![DBSCAN Performance Comparison](https://raw.githubusercontent.com/DengRuoAn/dengruoan-app/main/viewImg/3.PNG)
+![DBSCAN Performance Comparison](https://raw.githubusercontent.com/DengRuoAn/dengruoan-app/main/viewImg/4.PNG)
