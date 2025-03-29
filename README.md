@@ -81,11 +81,10 @@ npm install
   ```text
   1. 不卷不装，快乐开发
   2. Javaer/Vue萌新/全干大佬一律欢迎
-  
 
 
+![image text](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/1.PNG "DBSCAN Performance Comparison")
+![image text](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/2.PNG "DBSCAN Performance Comparison")
+![image text](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/3.PNG "DBSCAN Performance Comparison")
+![image text](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/4.PNG "DBSCAN Performance Comparison")
 
-![IMG_0627](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/1.PNG)
-![IMG_0627](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/2.PNG)
-![IMG_0627](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/3.PNG)
-![IMG_0627](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/4.PNG)
