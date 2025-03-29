@@ -85,14 +85,7 @@ npm install
 
 
 
-![IMG_0627](/Users/dengruoan/Downloads/IMG_0627.PNG)
-
-
-
-![IMG_0628](/Users/dengruoan/Downloads/IMG_0628.PNG)
-
-![IMG_0629](/Users/dengruoan/Downloads/IMG_0629.PNG)
-
-
-
-![IMG_0630](/Users/dengruoan/Downloads/IMG_0630.PNG)
+![IMG_0627](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/1.PNG)
+![IMG_0627](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/2.PNG)
+![IMG_0627](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/3.PNG)
+![IMG_0627](https://github.com/DengRuoAn/dengruoan-app/tree/main/viewImg/4.PNG)
