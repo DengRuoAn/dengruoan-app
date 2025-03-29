@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/github/license/yourname/yourrepo" alt="License">
 </div>
 
-![框架架构图](https://via.placeholder.com/800x400?text=Mobile+Framework+Architecture)
-
 ## 💡 诞生背景
 > "全干工程师"的血泪经验结晶
 
@@ -83,4 +81,18 @@ npm install
   ```text
   1. 不卷不装，快乐开发
   2. Javaer/Vue萌新/全干大佬一律欢迎
+  
 
+
+
+![IMG_0627](/Users/dengruoan/Downloads/IMG_0627.PNG)
+
+
+
+![IMG_0628](/Users/dengruoan/Downloads/IMG_0628.PNG)
+
+![IMG_0629](/Users/dengruoan/Downloads/IMG_0629.PNG)
+
+
+
+![IMG_0630](/Users/dengruoan/Downloads/IMG_0630.PNG)
