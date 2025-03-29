@@ -54,13 +54,16 @@
 ### 启动项目
 ```bash
 # 克隆仓库
-git clone https://github.com/DengRuoAn/dengruoan.git
+git clone https://gitee.com/DengRuoAn/dengruoan-app.git
 
 # 进入项目目录
-cd dengruoan
+cd dengruoan-app
 
 # 安装依赖（可选）
 npm install
+
+# 启动项目
+HBuilderX运行选择小程序或H5
 ```
 ## 👋 摸鱼共建计划
 **「全干人互助小组」欢迎你的加入！**
