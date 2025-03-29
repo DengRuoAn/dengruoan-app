@@ -54,7 +54,7 @@
 ### 启动项目
 ```bash
 # 克隆仓库
-git clone https://gitee.com/DengRuoAn/dengruoan-app.git
+git clone https://github.com/DengRuoAn/dengruoan-app.git
 
 # 进入项目目录
 cd dengruoan-app
